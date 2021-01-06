@@ -6,7 +6,7 @@ Reduces time to complete claim by 40%
 1. Run script in the command line
 1. The console will prompt you to answer some questions. 
 1. An automated Chrome window will then launch. The script will automatically fill in your username and password. Complete the ReCaptcha.
-1. The program will navigate to and complete the form for you. Check the answers, and click sumbit. All done!
+1. The script will automatically navigate to and complete the form for you. Check the answers, and click sumbit. All done!
 
 
 
